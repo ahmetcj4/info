@@ -1,0 +1,285 @@
+{
+  "responseHeader": {
+    "responseDateTime": "20180420112845873",
+    "responseCode": "0",
+    "responseDescription": "Success",
+    "displayText": "İşlem başarılı.",
+    "transactionId": "201804110112845450640"
+  },
+  "header": "Paycell Kart",
+  "language": "TR",
+  "productType": "PAYCELLCARD",
+  "content": [
+    {
+      "subtype": "DETAIL",
+      "text": "Detaylı  Bilgi",
+      "pageContent": [
+        {
+          "format": "LISTVIEW",
+          "listcount": "4",
+          "listelements": [
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır."
+          ]
+        },
+        {
+          "format": "TABLE",
+          "header": "Oyun, Uygulama Marketi, Sosyal Ağ vb. Dijital İçerikler",
+          "rowcount": "3",
+          "columncount": "2",
+          "tableelements": [
+            [
+              "Tek İşlem Limiti",
+              "100 TL"
+            ],
+            [
+              "Faturalı Hatlar için Aylık Limit",
+              "200 TL - 750 TL"
+            ],
+            [
+              "Faturasız Hatlar için Aylık Limit",
+              "500 TL"
+            ]
+          ]
+        },
+        {
+          "format": "TABLE",
+          "header": "Bahis Ödemeleri (Faturasız Hatlar)",
+          "rowcount": "4",
+          "columncount": "2",
+          "tableelements": [
+            [
+              "Tek İşlem Limiti",
+              "100 TL"
+            ],
+            [
+              "Faturalı Hatlar için Aylık Limit",
+              "200 TL - 750 TL"
+            ],
+            [
+              "Faturasız Hatlar için Aylık Limit",
+              "500 TL"
+            ],
+            [
+              "Toplam Aylık Limit",
+              "Middle Row",
+              "1500 TL"
+            ]
+          ]
+        },
+        {
+          "format": "TABLE",
+          "header": "Fiziksel Ürün ve Hizmetler",
+          "rowcount": "3",
+          "columncount": "2",
+          "tableelements": [
+            [
+              "Tek İşlem Limiti",
+              "100 TL"
+            ],
+            [
+              "Faturalı Hatlar için Aylık Limit",
+              "200 TL - 750 TL"
+            ],
+            [
+              "Faturasız Hatlar için Aylık Limit",
+              "500 TL"
+            ]
+          ]
+        },
+        {
+          "format": "TEXTVIEW",
+          "text": "Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler. Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler."
+        },
+        {
+          "format": "EXPANDERVIEW",
+          "listcount": "3",
+          "expanderelements": [
+            {
+              "question": "Kimler kullanabilir?",
+              "answer": "Turkcell Hattınla Öde’yi, hattı bu işleme açık olan tüm Turkcell aboneleri kullanabilir."
+            },
+            {
+              "question": "Avans TL bakiyem ile Turkcell Hattınla Öde servisini kullanabilir miyim?",
+              "answer": "Avans TL bakiyeniz ile Turkcell Hattınla Öde servisini kullanamazsınız. İşlem yapabilmek için TL yüklemelisiniz."
+            },
+            {
+              "question": "Alışveriş detaylarımı nasıl görebilirim?",
+              "answer": "Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler."
+            }
+          ]
+        },
+        {
+          "format": "TEXTVIEW",
+          "text": "Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler. Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler."
+        },
+        {
+          "format": "EXPANDERVIEW",
+          "listcount": "9",
+          "expanderelements": [
+            {
+              "question": "Kimler kullanabilir?",
+              "answer": "Turkcell Hattınla Öde’yi, hattı bu işleme açık olan tüm Turkcell aboneleri kullanabilir."
+            },
+            {
+              "question": "Avans TL bakiyem ile Turkcell Hattınla Öde servisini kullanabilir miyim?",
+              "answer": "Avans TL bakiyeniz ile Turkcell Hattınla Öde servisini kullanamazsınız. İşlem yapabilmek için TL yüklemelisiniz."
+            },
+            {
+              "question": "Alışveriş detaylarımı nasıl görebilirim?",
+              "answer": "Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler."
+            },
+            {
+              "question": "Kimler kullanabilir?",
+              "answer": "Turkcell Hattınla Öde’yi, hattı bu işleme açık olan tüm Turkcell aboneleri kullanabilir."
+            },
+            {
+              "question": "Avans TL bakiyem ile Turkcell Hattınla Öde servisini kullanabilir miyim?",
+              "answer": "Avans TL bakiyeniz ile Turkcell Hattınla Öde servisini kullanamazsınız. İşlem yapabilmek için TL yüklemelisiniz."
+            },
+            {
+              "question": "Alışveriş detaylarımı nasıl görebilirim?",
+              "answer": "Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler. Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler. Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler. Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler. Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler."
+            },
+            {
+              "question": "Kimler kullanabilir?",
+              "answer": "Turkcell Hattınla Öde’yi, hattı bu işleme açık olan tüm Turkcell aboneleri kullanabilir."
+            },
+            {
+              "question": "Avans TL bakiyem ile Turkcell Hattınla Öde servisini kullanabilir miyim?",
+              "answer": "Avans TL bakiyeniz ile Turkcell Hattınla Öde servisini kullanamazsınız. İşlem yapabilmek için TL yüklemelisiniz."
+            },
+            {
+              "question": "Alışveriş detaylarımı nasıl görebilirim?",
+              "answer": "Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subtype": "HOWTO",
+      "text": "Ödemelerimi Nasıl Gerçekleştirebilirim?",
+      "pageContent": [
+        {
+          "format": "LISTVIEW",
+          "listcount": "8",
+          "listelements": [
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır."
+          ]
+        }
+      ]
+    },
+    {
+      "subtype": "FEE",
+      "text": "Ücretler",
+      "pageContent": [
+        {
+          "format": "LISTVIEW",
+          "listcount": "8",
+          "listelements": [
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır."
+          ]
+        }
+      ]
+    },
+    {
+      "subtype": "LIMIT",
+      "text": "Limitler",
+      "pageContent": [
+        {
+          "format": "LISTVIEW",
+          "listcount": "8",
+          "listelements": [
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır."
+          ]
+        }
+      ]
+    },
+    {
+      "subtype": "SSS",
+      "text": "Sıkça Sorulan Sorular",
+      "pageContent": [
+        {
+          "format": "LISTVIEW",
+          "listcount": "8",
+          "listelements": [
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir.",
+            "Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır.",
+            "Kredi ile satın alınan cihazların (akıllı telefon) kredi geri ödemelerine TÖHAŞ tarafından aracılık edilmesi durumunda işlem ücreti olarak her bir kredi başına 20 TL tahsil edilir. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır. Turkcell Hattınla Öde 6 aylık üyelik ücreti standart kullanım için 4,99 TL; Premium kullanım için ise 6,99 TL'dir. Premium servislerin kullanımı durumunda üyeliğin otomatik olarak Premium olarak güncellenecek ve daha önce standart üyelik tipi için üyelik ücreti alındı ise ilgili periyot için yalnız 2TL’lik fark ücreti alınacaktır. Premium servisler Facebook Reklam ve SetCard’tır. Turkcell faturana yansıyan alışveriş tutarın üzerinden ayrıca ÖİV alınmayacaktır."
+          ]
+        },
+        {
+          "format": "EXPANDERVIEW",
+          "listcount": "9",
+          "expanderelements": [
+            {
+              "question": "Kimler kullanabilir?",
+              "answer": "Turkcell Hattınla Öde’yi, hattı bu işleme açık olan tüm Turkcell aboneleri kullanabilir."
+            },
+            {
+              "question": "Avans TL bakiyem ile Turkcell Hattınla Öde servisini kullanabilir miyim?",
+              "answer": "Avans TL bakiyeniz ile Turkcell Hattınla Öde servisini kullanamazsınız. İşlem yapabilmek için TL yüklemelisiniz."
+            },
+            {
+              "question": "Alışveriş detaylarımı nasıl görebilirim?",
+              "answer": "Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler."
+            },
+            {
+              "question": "Kimler kullanabilir?",
+              "answer": "Turkcell Hattınla Öde’yi, hattı bu işleme açık olan tüm Turkcell aboneleri kullanabilir."
+            },
+            {
+              "question": "Avans TL bakiyem ile Turkcell Hattınla Öde servisini kullanabilir miyim?",
+              "answer": "Avans TL bakiyeniz ile Turkcell Hattınla Öde servisini kullanamazsınız. İşlem yapabilmek için TL yüklemelisiniz."
+            },
+            {
+              "question": "Alışveriş detaylarımı nasıl görebilirim?",
+              "answer": "Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler. Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler. Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler. Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler. Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler."
+            },
+            {
+              "question": "Kimler kullanabilir?",
+              "answer": "Turkcell Hattınla Öde’yi, hattı bu işleme açık olan tüm Turkcell aboneleri kullanabilir."
+            },
+            {
+              "question": "Avans TL bakiyem ile Turkcell Hattınla Öde servisini kullanabilir miyim?",
+              "answer": "Avans TL bakiyeniz ile Turkcell Hattınla Öde servisini kullanamazsınız. İşlem yapabilmek için TL yüklemelisiniz."
+            },
+            {
+              "question": "Alışveriş detaylarımı nasıl görebilirim?",
+              "answer": "Turkcell faturanızda yaptığınız ödemeleri “Hattınla Öde” başlığı altında görebilirsiniz. Ön ödemeli hat sahipleri ise müşteri hizmetlerini 532’den arayarak mobil ödeme işlem tarihçesini sorgulayabilirler."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
