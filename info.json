@@ -8,7 +8,7 @@
   },
   "header": "Paycell Kart",
   "language": "TR",
-  "productType": "PAYCELLCARD",
+  "productType": "PAYCELL_CARD",
   "content": [
     {
       "subtype": "DETAIL",
